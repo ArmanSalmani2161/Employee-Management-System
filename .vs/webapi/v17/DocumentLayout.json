@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PG-DAC\\.NET\\webapi\\webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|c:\\pg-dac\\.net\\webapi\\webapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|c:\\pg-dac\\.net\\webapi\\webapi\\services\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|solutionrelative:services\\employeeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|c:\\pg-dac\\.net\\webapi\\webapi\\repositories\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|solutionrelative:repositories\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|c:\\pg-dac\\.net\\webapi\\webapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1697FA6-9DB7-48F6-884C-7E0D2638A8EF}|webapi.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:10:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeServiceImpl.cs",
+              "DocumentMoniker": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Services\\EmployeeServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServiceImpl.cs",
+              "ToolTip": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Services\\EmployeeServiceImpl.cs",
+              "RelativeToolTip": "Services\\EmployeeServiceImpl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:10:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Repositories\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Repositories\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Repositories\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:10:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\PG-DAC\\.NET\\webapi\\webapi\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:10:24.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
